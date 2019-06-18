@@ -1,0 +1,25 @@
+{
+  "name": "summernote-lite",
+  "authors": [
+    "Jerome Ongcol <jerome@xplorit.com>"
+  ],
+  "description": "Summernote Lite",
+  "main": "index.html",
+  "keywords": [
+    "summernote",
+    "summernote-lite"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.3"
+  }
+}
