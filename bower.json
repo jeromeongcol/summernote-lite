@@ -4,7 +4,7 @@
     "Jerome Ongcol <jerome@xplorit.com>"
   ],
   "description": "Summernote Lite",
-  "main": "index.html",
+  "main": "/dist/summernote-lite.js",
   "keywords": [
     "summernote",
     "summernote-lite"
